@@ -1,7 +1,14 @@
 items = {
-    'Bread': 1.20,
-    'Milk': 1.15,
-    'Chocoloate': 0.5,
+    "Coke": 2.00, 
+    "Butter": 3.65,
+    "Chocolate": 1.50,
+    "Coffee": 3.00,
+    "Yoghurt": 1.20,
+    "Lays BBQ Ribs Chips": 2.59,
+    "Pasta": 3 ,
+    "Indomie": 0.99,
+    "Eggs": 2.50,
+    "Sprite": 2.00
 }
 
 def start_shop():
